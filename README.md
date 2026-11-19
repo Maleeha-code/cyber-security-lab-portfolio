@@ -27,7 +27,6 @@ In this repository, I have documented my practical learning activities, includin
 - lab-reflection.md: Describes my learning experience and the practical skills I developed.
 - .gitignore: Specifies files that should not be tracked by Git.
 
-Learning Goal
 My goal is to improve my practical cybersecurity skills, become more confident with Linux and Git, and continue learning about information security. I also want to build a collection of practical projects that demonstrates my progress.
 
 My goal is to improve my practical cybersecurity skills, become more confident with Linux and Git, and continue learning about information security. I also want to build a collection of practical projects that demonstrates my progress.
