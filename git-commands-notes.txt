@@ -1,0 +1,14 @@
+# Git Commands Notes
+
+During this lab, I practised some basic Git commands. These commands helped me manage my files and work with GitHub.
+
+1. **git init:** Used to create a new Git repository.
+2. **git status:** Used to check the current status of files.
+3. **git add:** Used to prepare files for committing.
+4. **git commit:** Used to save changes in the repository.
+5. **git push:** Used to upload my commits to GitHub.
+6. **git pull:** Used to bring changes from GitHub to my computer.
+7. **git clone:** Used to copy an existing repository to my computer.
+8. **git log --oneline:** Used to view the commit history in a short format.
+
+These commands helped me understand how Git tracks changes and how I can manage my project using GitHub.
